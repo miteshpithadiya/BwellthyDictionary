@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BwellthyDictionary</string>
+    <string name="db_exists">db_exists</string>
+    <string name="no_network_available">You do not seem to have an active Internet connection. Please check the settings and try again!</string>
+</resources>
